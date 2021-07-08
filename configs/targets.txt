@@ -1,0 +1,10 @@
+1A_endpt.wav
+2A_endpt.wav
+3A_endpt.wav
+4A_endpt.wav
+5A_endpt.wav
+6A_endpt.wav
+7A_endpt.wav
+jnt.wav
+memohon.wav
+maaf.wav
